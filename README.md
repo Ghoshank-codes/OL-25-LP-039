@@ -50,7 +50,7 @@ OL-25-LP-039
 ---
 
 ## 🔗 Important Links
-- **Streamlit App:** [https://capestone-ol-25-lp-039.streamlit.app/](#)  
+- **Streamlit App:** [Web App Link](https://capestone-ol-25-lp-039.streamlit.app/)  
 - **Technical Report:** [Link to Medium Blog](#) 
 
 ## Acknowledgements
