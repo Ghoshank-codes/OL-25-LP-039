@@ -1,0 +1,24 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+.env/
+.venv/
+
+# Streamlit cache
+.streamlit/cache/
+
+# CatBoost training logs
+catboost_info/
+
+# System files (OS-generated)
+.DS_Store
+Thumbs.db
+
+# VSCode specific (optional, if you're using VSCode)
+.vscode/
