@@ -51,7 +51,7 @@ OL-25-LP-039
 
 ## 🔗 Important Links
 - **Streamlit App:** [Web App Link](https://capstone-ol-25-lp-039.streamlit.app/)  
-- **Technical Report:** [Link to Medium Blog](#) 
+- **Technical Report:** [Link to Medium Blog](https://medium.com/@guptaghoshank/mental-wellness-in-tech-a-machine-learning-approach-to-understand-predict-and-support-employee-b51393185037) 
 
 ## Acknowledgements
 - Dataset Source: [Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
